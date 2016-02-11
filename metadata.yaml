@@ -1,0 +1,29 @@
+_repo: Cassell-s-Book-of-Birds-Volume-1_48675
+contributor:
+  translator:
+    agent_name: Jones, Thomas Rymer
+    birthdate: 1810
+    deathdate: 1880
+    gutenberg_agent_id: '44914'
+    url: http://www.gutenberg.org/2009/agents/44914
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Rymer_Jones
+creator:
+  author:
+    agent_name: Brehm, Alfred Edmund
+    alias: Brehm, A. E. (Alfred Edmund)
+    birthdate: 1829
+    deathdate: 1884
+    gutenberg_agent_id: '6874'
+    url: http://www.gutenberg.org/2009/agents/6874
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Brehm
+description: ''
+gutenberg_issued: '2015-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Cassell's Book of Birds, Volume 1
+url: http://www.gutenberg.org/ebooks/48675
